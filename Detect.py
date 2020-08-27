@@ -66,7 +66,7 @@ for i in range(len(day)):
         month[i] = '02'
 
 
-# TODO: Check count of Day's digit number and replace with valid value
+# Check count of Day's digit number and replace with valid value
 
 for daynum in range(len(day)):
     if len(day[daynum])==1:
